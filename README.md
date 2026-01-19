@@ -7,7 +7,7 @@
 - Platforms: Git & GitHub, Vercel, Docker, Linux. 
 
 ## Education
-- B.S., Computer Science | Oklahoma City University at Oklahoma City (_August 2023 – Current_), Current GPA: 2.98
+B.S., Computer Science | Oklahoma City University at Oklahoma City (_August 2023 – Current_), Current GPA: 2.98
 
 ## Projects
 - _work in progess_
