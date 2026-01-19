@@ -1,1 +1,7 @@
-# Santix123123.github.io
+# Aspiring Software Engineer
+
+### Education
+
+### Work Experience
+
+### Projects
