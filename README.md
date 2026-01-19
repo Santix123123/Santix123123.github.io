@@ -6,13 +6,13 @@
 - Databases: SQL (MySQL) 
 - Platforms: Git & GitHub, Vercel, Docker, Linux. 
 
-### Education
-- Oklahoma City University | Oklahoma City, Oklahoma | (_August 2023 – Current_) | Major: Bachelor of Science in Computer Science | Current GPA: 2.98
+## Education
+- B.S., Computer Science | Oklahoma City University at Oklahoma City (_August 2023 – Current_), Current GPA: 2.98
 
-### Projects
+## Projects
 - _work in progess_
 
-### Work Experience
+## Work Experience
 **Concession Stands | Oklahoma City University | Oklahoma City, Oklahoma | (_August 2023 - Present_)**
 - Providing refreshments during sporting events, and fostering a community amongst students 
 
